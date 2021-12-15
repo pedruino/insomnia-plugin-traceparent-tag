@@ -1,0 +1,28 @@
+{
+	"name": "insomnia-plugin-traceparent-tag",
+	"version": "1.0.0",
+	"insomnia": {
+		"name": "traceparent",
+		"displayName": "traceparentPlugin",
+		"description": "A template tag to gerenate traceparent",
+		"images": {
+			"cover": "./docs/preview.png"
+		},
+		"publisher": {
+			"name": "Pedro Escobar",
+			"icon": "https://avatars.githubusercontent.com/u/5631584"
+		},
+		"unlisted": false
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/pedruino/insomnia-plugin-traceparent-tag.git"
+	},
+	"keywords": ["insomnia", "insomnia plugin", "traceparent" ],
+	"license": "MIT",
+	"author": {
+		"name": "Pedro Escobar",
+		"email": "ec.pedroescobar@gmail.com"
+	},
+	"main": "app.js"
+}
